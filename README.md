@@ -41,3 +41,15 @@ npm run build
 ```
 npm run lint
 ```
+
+### working notes
+
+```
+npm install --save vuejs-datepicker
+json-server --watch db.json
+npm install
+yarn serve
+
+
+
+```
