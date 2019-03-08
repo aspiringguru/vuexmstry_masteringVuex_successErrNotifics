@@ -50,6 +50,12 @@ json-server --watch db.json
 npm install
 yarn serve
 
+todo:
+1. create notification module.
+2. add/remove notifications
+3. display notifications
+
+
 
 
 ```
